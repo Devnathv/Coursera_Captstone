@@ -1,0 +1,13 @@
+City,Income
+Angier,33849
+Apex,89475
+Cary,110609
+fuquay varina,49531
+Garner,47380
+Holly Springs,85000
+Knightdale,75285
+Morrisville,56548
+Rolesville,46838
+wake forest,52307
+Wendell,47908
+Zebulon,36250

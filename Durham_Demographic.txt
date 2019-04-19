@@ -1,0 +1,10 @@
+Year=2010,Race
+42.45%,White
+37.9%,Non-Hispanic White
+40.96%,Black or African American
+5.07%,Asian American
+0.51%,Native American
+0.07%,Native Hawaiian or Other Pacific Islander
+8.28%,some other race
+2.66%,two or more races
+14.22%,Hispanic or Latino of any race 
